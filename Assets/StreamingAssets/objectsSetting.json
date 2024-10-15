@@ -1,0 +1,94 @@
+{
+    "Items": [
+        {
+            "name": "frame",
+            "hide": false,
+            "levelOpacity": 5,
+            "color": 6
+        },
+        {
+            "name": "carriage frame",
+            "hide": false,
+            "levelOpacity": 5,
+            "color": 5
+        },
+        {
+            "name": "wheel 5",
+            "hide": false,
+            "levelOpacity": 5,
+            "color": 5
+        },
+        {
+            "name": "wheel 6",
+            "hide": false,
+            "levelOpacity": 5,
+            "color": 5
+        },
+        {
+            "name": "carriage frame 2",
+            "hide": false,
+            "levelOpacity": 5,
+            "color": 6
+        },
+        {
+            "name": "wheel 4",
+            "hide": false,
+            "levelOpacity": 5,
+            "color": 2
+        },
+        {
+            "name": "wheel 3",
+            "hide": false,
+            "levelOpacity": 5,
+            "color": 2
+        },
+        {
+            "name": "body",
+            "hide": false,
+            "levelOpacity": 5,
+            "color": 6
+        },
+        {
+            "name": "roof",
+            "hide": false,
+            "levelOpacity": 5,
+            "color": 7
+        },
+        {
+            "name": "rear window",
+            "hide": false,
+            "levelOpacity": 3,
+            "color": 3
+        },
+        {
+            "name": "front window",
+            "hide": false,
+            "levelOpacity": 3,
+            "color": 3
+        },
+        {
+            "name": "wheel 2",
+            "hide": false,
+            "levelOpacity": 5,
+            "color": 7
+        },
+        {
+            "name": "wheel 1",
+            "hide": false,
+            "levelOpacity": 5,
+            "color": 7
+        },
+        {
+            "name": "Capsule",
+            "hide": false,
+            "levelOpacity": 5,
+            "color": 3
+        },
+        {
+            "name": "Capsule 1",
+            "hide": false,
+            "levelOpacity": 5,
+            "color": 1
+        }
+    ]
+}
